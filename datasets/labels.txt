@@ -1,0 +1,8 @@
+background
+purchase_order
+invoice_number
+due_date
+amount_due
+total_amount
+invoice_date
+total_tax_amount
