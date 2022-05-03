@@ -12,7 +12,7 @@ setup(
     install_requires=[
         "transformers==2.9.0",
         "tensorboardX==2.0",
-        "lxml==4.5.1",
-        "Pillow==7.1.2",
+        "lxml==4.6.5",
+        "Pillow==9.0.1",
     ],
 )
