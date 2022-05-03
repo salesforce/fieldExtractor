@@ -51,7 +51,9 @@ If you find this codebase useful, please cite our paper:
 ```
 
 ## License
-Our code and pre-trained model are released under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+Our code is released under [BSD 3-Clause](https://opensource.org/licenses/BSD-3-Clause).
+
+Our pre-trained model is released under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
 The [INV-CDIP dataset](https://github.com/salesforce/inv-cdip) is released under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). 
 The underlying documents to which the dataset refers are from the [Tobacco Collections of Industry Documents Library](https://www.industrydocuments.ucsf.edu/). 
